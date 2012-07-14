@@ -1,0 +1,5 @@
+106109028 - Gopal Rander
+106109041 - Kunal Kapadia	
+106109060 - Parth Dandiwala
+
+Topic 2. Static channel allocation using hybrid channel borrowing.

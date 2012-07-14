@@ -1,0 +1,38 @@
+1)  TEST ANALYSIS CASE 1
+No. of calls made <randomly>:  50
+No. of channels per cell:      2
+No. of calls Blocked:          24  <parallel - 14>
+
+ratio of calls blocked:        48% <parallel - 28%>
+
+
+2)  TEST ANALYSIS CASE 2
+No. of calls made <randomly>:  50
+No. of channels per cell:      4
+No. of calls Blocked:          4 <parallel - 2>
+
+ratio of calls blocked:        8% <parallel - 4%>
+
+
+5)  TEST ANALYSIS CASE 4
+No. of calls made <randomly>:  700
+No. of channels per cell:      2
+No. of calls Blocked:          389  <parallel - 255>
+
+ratio of calls blocked:        55.57 <parallel - 36.4%>
+
+6)
+  TEST ANALYSIS CASE 4
+No. of calls made <randomly>:  50
+No. of channels per cell:      5
+No. of calls Blocked:          2  <parallel - 1>
+
+ratio of calls blocked:        4% <parallel - 2%>
+
+7)
+  TEST ANALYSIS CASE 4
+No. of calls made <randomly>:  238
+No. of channels per cell:      5
+No. of calls Blocked:          13  <parallel - 8>
+
+ratio of calls blocked:        5.462% <parallel - 3.36%>
